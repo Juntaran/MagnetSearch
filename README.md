@@ -1,12 +1,13 @@
 # MagnetSearch
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Search magnet ~
 
 
 ## Usage
 
-```
+``` shell
 NAME:
    magent searcher - Download what you need :)
 
