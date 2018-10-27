@@ -179,6 +179,9 @@ magnetSearch search -k "dota2 gif" -d -n 10 -s 2
 热度: 610
 ```
 
+## License
+MIT [©Juntaran](https://github.com/Juntaran)
+
 ___
 ## Reference
 
