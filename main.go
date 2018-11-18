@@ -11,7 +11,7 @@ import (
 
 	"github.com/urfave/cli"
 
-	"magnetSearch/cmd"
+	"MagnetSearch/cmd"
 )
 
 func main() {

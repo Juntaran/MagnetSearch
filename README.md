@@ -21,7 +21,7 @@ AUTHOR:
    Juntaran <jacinthmail@gmail.com>
 
 COMMANDS:
-     search   ./magnetSearch search sth
+     search   MagnetSearch search sth
      help, h  Shows a list of commands or help for one command
 
 GLOBAL OPTIONS:

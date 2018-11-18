@@ -11,7 +11,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"magnetSearch/g"
+	"MagnetSearch/g"
 )
 
 func HttpGetClient(domain string) ([]byte, error) {

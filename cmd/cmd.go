@@ -11,12 +11,12 @@ import (
 
 	"github.com/urfave/cli"
 
-	"magnetSearch/crawler"
+	"MagnetSearch/crawler"
 )
 
 var Search = cli.Command {
 	Name:			"search",
-	Usage: 			"./magnetSearch search sth",
+	Usage: 			"MagnetSearch search sth",
 	Description: 	"Search what you need :)",
 	Action: 		crawler.Search,
 	Flags:          []cli.Flag{

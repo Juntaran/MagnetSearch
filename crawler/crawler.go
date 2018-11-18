@@ -12,8 +12,8 @@ import (
 
 	"github.com/urfave/cli"
 
-	"magnetSearch/g"
-	"magnetSearch/utils"
+	"MagnetSearch/g"
+	"MagnetSearch/utils"
 )
 
 func Search(ctx *cli.Context)  {
