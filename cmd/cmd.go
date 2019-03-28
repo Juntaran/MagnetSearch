@@ -11,7 +11,7 @@ import (
 
 	"github.com/urfave/cli"
 
-	"MagnetSearch/crawler"
+	"github.com/Juntaran/MagnetSearch/crawler"
 )
 
 var Search = cli.Command {

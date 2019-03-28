@@ -11,7 +11,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"MagnetSearch/g"
+	"github.com/Juntaran/MagnetSearch/g"
 )
 
 func HttpGetClient(domain string) ([]byte, error) {

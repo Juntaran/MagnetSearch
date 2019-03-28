@@ -12,8 +12,8 @@ import (
 
 	"github.com/urfave/cli"
 
-	"MagnetSearch/g"
-	"MagnetSearch/utils"
+	"github.com/Juntaran/MagnetSearch/g"
+	"github.com/Juntaran/MagnetSearch/utils"
 )
 
 func Search(ctx *cli.Context)  {
